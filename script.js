@@ -11,7 +11,7 @@ async function datos(raw) {
 
                             <div class="col">
                                 <div class="card shadow-sm">
-                                <img src="${trabajo.photo}" class"card-img-top">
+                                <img src="${trabajo.photo}" class="card-img-top">
                                 <div class="card-body">
                                 <p class="card-text">${trabajo.title}</p>
                                 <p class="card-text">${trabajo.description}</p>
